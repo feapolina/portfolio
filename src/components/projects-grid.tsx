@@ -35,7 +35,6 @@ export function ProjectsGrid() {
           <div className="flex gap-2 py-2">
             <BadgeOutline>React</BadgeOutline>
             <BadgeOutline>Typescript</BadgeOutline>
-            <BadgeOutline>Prisma</BadgeOutline>
           </div>
           <a href="https://github.com/feapolina/gdebate-app">
             <img src={debateDay} alt="" />
@@ -45,7 +44,7 @@ export function ProjectsGrid() {
           <span>intelliNotes: App capaz de armazenar notas inteligentes </span>
           <div className="flex gap-2 py-2">
             <BadgeOutline>React</BadgeOutline>
-            <BadgeOutline>React</BadgeOutline>
+            <BadgeOutline>Typescript</BadgeOutline>
           </div>
           <a href="https://github.com/feapolina/intelliNotes">
             <img src={intelliNotes} alt="" />
